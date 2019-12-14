@@ -15,6 +15,6 @@ end
 display_board(board)
 
 board = [" "," "," "," ","X"," "," "," "," "]
-
+board = ["X", "X", "X", " ", " ", " ", " ", " ", " "]
 
 
